@@ -61,12 +61,6 @@ They act as a personal learning record and a helpful reference for future projec
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:2575fc,100:6a11cb" />
-</p>
-
----
-
 ##  Contributions & Feedback
 
 This project is in active development.
@@ -78,3 +72,10 @@ Feel free to suggest improvements, report issues, or contribute!
 
 * **LinkedIn:** [Sanjana Devi](#)
 * **GitHub:** [sanjana806](https://github.com/sanjana806)
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:2575fc,100:6a11cb" />
+</p>
+
+---
