@@ -1,5 +1,5 @@
 ---
-# 🌈 **Animated README: AIML Bootcamp – Jupyter Notebook Collection**
+# 🌈 **README: AIML Bootcamp – Jupyter Notebook Collection**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AIML%20Bootcamp%20Notebooks&fontSize=45&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff&animation=fadeIn" />
